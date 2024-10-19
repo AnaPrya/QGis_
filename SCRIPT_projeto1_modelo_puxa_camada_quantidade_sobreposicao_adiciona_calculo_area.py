@@ -3,8 +3,8 @@ from qgis.core import QgsProject, QgsVectorLayer, QgsField, QgsFeature, QgsGeome
 from PyQt5.QtCore import QVariant
 
 # Caminhos para as pastas
-caminho_propriedades = r"C:\Users\abartolo\JGP Gestão de Recursos\ESG Team - General\ABartolo\Automatizando o QGis\propriedades grano"
-caminho_alertas = r"C:\Users\abartolo\JGP Gestão de Recursos\ESG Team - General\ABartolo\Automatizando o QGis\alertas"
+caminho_propriedades = r"C:\Users"
+caminho_alertas = r"C:\Users"
 
 # Função para encontrar o primeiro arquivo .shp na pasta especificada
 def encontrar_primeiro_shapefile(caminho_pasta):
