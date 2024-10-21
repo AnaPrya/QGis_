@@ -1,0 +1,1 @@
+O código realiza a ferramenta de sobreposição entre os shapefiles das propriedades e os shapes da camada de alertas de desmatamento. O output é uma planilha com as áreas de sobreposição identificadas.
